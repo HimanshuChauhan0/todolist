@@ -1,4 +1,4 @@
  applications:
- - name: chatting
+ - name: todolist
    random-route: true
    memory: 128M
